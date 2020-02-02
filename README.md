@@ -3,7 +3,7 @@ deberes
 # Empresa #
 
 ## Redes ##
-Las redes estas divididas en plantas, 4 plantas y en cada red tenemos un servidor DHCP donde organiza la planta. 
+Las redes estas divididas en plantas 4 plantas, y en cada red tenemos un servidor DHCP donde organiza la planta. 
 
 Cada planta llega a un Router donde nos crea una conexion entre plantas.
 
